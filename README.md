@@ -15,9 +15,9 @@ If ran successfully, generates file with "_NV" postfix ("night vision"), e.g. X3
 Usage:
 
 ```
-python chart_red.py X38343IA.png
+python chart_nv.py X38343IA.png
 ```
 or
 ```
-python chart_red.py X38343IA.png show
+python chart_nv.py X38343IA.png show
 ```

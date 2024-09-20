@@ -8,7 +8,7 @@ pip install pillow
 
 Parameters:
 * 1st: file path/name, e.g. X38343IA.png (mandatory)
-* 2nd: preview flag: "show" if you want to automatically open the generated image
+* 2nd: preview flag: "show" if you want to automatically open the generated image (optional, default to not to show)
 
 If ran successfully, generates file with "_NV" postfix ("night vision"), e.g. X38343IA.png >>> X38343IA_NV.png
   
